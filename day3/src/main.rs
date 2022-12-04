@@ -71,5 +71,5 @@ fn main() {
 
     let lines = contents.lines();
     part1(lines.clone());
-    part2(lines);
+    part2(lines.clone());
 }
